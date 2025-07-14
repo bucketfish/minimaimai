@@ -4,6 +4,7 @@ minimaimai is a tiny portable rhythm game console, inspired by the arcade game m
 
 i love rhythm games and the idea of little portable toys like tamagotchi. it was also a really cool challenge to design something round!
 
+![](https://github.com/bucketfish/minimaimai/blob/cebb856b06a91b50bfec86de4a98f6b058db317a/images/irl1.png)
 
 ## bom
 | Part    | Quantity |
